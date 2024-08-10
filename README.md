@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ee0eb68-3e57-4a68-98ce-1786e7479207)**Weather Website**
+**Weather Website**
 This is a simple weather website that provides real-time weather information for any location. The site uses the OpenAPI weather API and is built using JavaScript, HTML, and CSS.
 
 **Features**
